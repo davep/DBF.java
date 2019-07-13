@@ -1,0 +1,17 @@
+Hi, in the archive you will find the source for the start of a dBase and
+Clipper style DBF reader class. I should point out that this is the first
+bit of Java code I've done and it was started as a test more than anything
+else, it is not intended to be working code.
+
+However, a couple of people have asked to see it so I'm making it available
+to anyone who wants to see it, play with it, improve it etc.
+
+Note that there is a lot wrong with it, and a lot would need to be done
+to it before it would be a usable class. The test program works, and 
+that is the only claim I'm going to make. :-)
+
+Let me know what you think, if you take the code and add to it then please
+let me know, I'd like to see what you come up with. I should be doing some
+more work on it soon, I do hope to get it fully working at some point.
+
+You can contact me at davep@hagbard.demon.co.uk
